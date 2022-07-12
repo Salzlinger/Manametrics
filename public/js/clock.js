@@ -1,6 +1,6 @@
  import $ from "jquery";
+ import 'bootstrap/dist/css/bootstrap.css';
  import '../css/style.css';
-console.log('clock says hello World!');
 let playing = false;
 let currentPlayer = 1;
 let gameMode = 3;
